@@ -6,7 +6,7 @@ function routes(app) {
   });
 
   app.get('/a', (req, res) => {
-    res.send("orange")
+    res.send("apple")
   });
 }
 
